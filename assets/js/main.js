@@ -254,7 +254,7 @@
    * Setup and start Typing animation!
    */
   var typed = new Typed('#element', {
-    strings: [' engaging,', 'high-quality'],
+    strings: [' engaging', 'high-quality'],
     typeSpeed: 100,
     backSpeed: 100,
     loop: true
