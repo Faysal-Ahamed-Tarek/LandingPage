@@ -249,3 +249,13 @@
   });
 
 })()
+
+/**
+   * Setup and start Typing animation!
+   */
+  var typed = new Typed('#element', {
+    strings: [' engaging,', 'high-quality'],
+    typeSpeed: 150,
+    backSpeed: 150,
+    loop: true
+  });
