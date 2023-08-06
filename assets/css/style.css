@@ -441,6 +441,7 @@ div#particles-js {
   color: var(--Secondary) !important;
   border: 2px solid var(--Primary);
   background: var(--Primary);
+  z-index: 10;
 }
 
 .HeroBtn {
